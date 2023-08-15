@@ -5,7 +5,7 @@ I'm Himanshu Sharma a Full Stack Web Developer and Content Creator on [Youtube](
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@h__sharma-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/h__sharma)](https://twitter.com/h__sharma) ![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-sharma-b0716b162/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/hiiimanshu_sharma) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:himanshubasotiya10@gmail.co)
+[![Twitter Badge](https://img.shields.io/badge/-@h__sharma-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/h__sharma)](https://twitter.com/h__sharma) [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-sharma-b0716b162/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/hiiimanshu_sharma) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:himanshubasotiya10@gmail.co)
 
 ### CoderOne Newsletter
 Join the bi-weekly Newsletter among thousands of other developers and stay in the loop with Web Development, React, Security, Software Engineering, Jobs, AI, Professional Courses and a lot more. 
