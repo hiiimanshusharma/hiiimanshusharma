@@ -33,7 +33,7 @@ When the world sleeps, I awaken, training models, fine-tuning weights, and dream
 
 #### Profile Visits 
 
-![visitors](![visitors](https://visitor-badge.glitch.me/badge?page_id=hiiimanshusharma.hiiimanshusharma&left_color=green&right_color=red))
+![visitors](https://visitor-badge.glitch.me/badge?page_id=hiiimanshusharma.hiiimanshusharma&left_color=green&right_color=red)
 
 #### Github Stats
 
