@@ -11,23 +11,26 @@ When the world sleeps, I awaken, training models, fine-tuning weights, and dream
 
 ### What I currently Do
 
--  I’m currently student at Indian Institute of Information Technology Una(IIITU)
+- 🏫 I’m currently studing at Indian Institute of Information Technology Una(IIITU)
+- 🔭 I have worked as a Quantitative Trading Analyst for Tanmay Agarwal where I builded and back-tested Trading Strategies.
 - :computer: Most used line of code `pip install lib / python run.py`
-- 🤔 I’m looking for Internship where I can provide value.
+- 🤔 Currently I’m looking for Internships.
 - 📫 How to reach me: himanshubasotiya10@gmail.com.
 - 😄 Pronouns: himanshu, Sharma.
-- ⚡ Fun fact: I run and go to the GYM very often.
+- ⚡ Fun fact: I Run and go to the Gym very often.
 
-#### Top Technologies
+#### Tech Stack
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=Python&logoColor=3776AB)](#) [![tensorflow Badge](https://img.shields.io/badge/-tensorflow-FF6F00?style=for-the-badge&labelColor=black&logo=tensorflowt&logoColor=FF6F00)](#) [![selenium Badge](https://img.shields.io/badge/-selenium-43B02A?style=for-the-badge&labelColor=black&logo=selenium&logoColor=43B02A)](#) [![opencv Badge](https://img.shields.io/badge/-opencv-5C3EE8?style=for-the-badge&labelColor=black&logo=opencv&logoColor=5C3EE8)](#) [![streamlit Badge](https://img.shields.io/badge/-streamlit-FF4B4B?style=for-the-badge&labelColor=black&logo=streamlit&logoColor=FF4B4B)](#) [![r Badge](https://img.shields.io/badge/-r-276DC3?style=for-the-badge&labelColor=black&logo=r&logoColor=276DC3)](#) [![c Badge](https://img.shields.io/badge/-c-A8B9CC?style=for-the-badge&labelColor=black&logo=c&logoColor=A8B9CC)](#)
+[![cplusplus Badge](https://img.shields.io/badge/-c++-00599C?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=00599C)](#) [![django Badge](https://img.shields.io/badge/-django-092E20?style=for-the-badge&labelColor=black&logo=django&logoColor=092E20)](#) [![mysql Badge](https://img.shields.io/badge/-mysql-4479A1?style=for-the-badge&labelColor=black&logo=mysql&logoColor=4479A1)](#) [![sqlite Badge](https://img.shields.io/badge/-sqlite-003B57?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=003B57)](#) [![amazons3 Badge](https://img.shields.io/badge/-amazons3-569A31?style=for-the-badge&labelColor=black&logo=amazons3&logoColor=569A31)](#) [![amazonaws Badge](https://img.shields.io/badge/-amazonaws-232F3E?style=for-the-badge&labelColor=black&logo=amazonaws&logoColor=232F3E)](#) [![amazonec2 Badge](https://img.shields.io/badge/-amazonec2-FF9900?style=for-the-badge&labelColor=black&logo=amazonec2&logoColor=FF9900)](#) [![googlecloud Badge](https://img.shields.io/badge/-googlecloud-4285F4?style=for-the-badge&labelColor=black&logo=googlecloud&logoColor=4285F4)](#) [![googlecolab Badge](https://img.shields.io/badge/-googlecolab-276DC3?style=for-the-F9AB00badge&labelColor=black&logo=googlecolab&logoColor=F9AB00)](#) [![anaconda Badge](https://img.shields.io/badge/-anaconda-44A833?style=for-the-badge&labelColor=black&logo=anaconda&logoColor=44A833)](#) [![yolo Badge](https://img.shields.io/badge/-yolo-00FFFF?style=for-the-badge&labelColor=black&logo=yolo&logoColor=00FFFF)](#) [![scikitlearn Badge](https://img.shields.io/badge/-scikitlearn-F7931E?style=for-the-badge&labelColor=black&logo=scikitlearn&logoColor=F7931E)](#) [![docker Badge](https://img.shields.io/badge/-docker-2496ED?style=for-the-badge&labelColor=black&logo=docker&logoColor=2496ED)](#) [![git Badge](https://img.shields.io/badge/-git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#) [![latex Badge](https://img.shields.io/badge/-latex-008080?style=for-the-badge&labelColor=black&logo=latex&logoColor=008080)](#) [![html5 Badge](https://img.shields.io/badge/-html5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#) [![css3 Badge](https://img.shields.io/badge/-css-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#) [![javascript Badge](https://img.shields.io/badge/-javascript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](#)
+
 
 
 
 #### Resume
-- :paperclip: [My Resume/CV]([https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf](https://drive.google.com/file/d/1eiwAoJ4qbklVSkbvNKZhsfQ5xV35plAU/view?usp=sharing))
+- :paperclip: [My Resume/CV]([[https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf](https://drive.google.com/file/d/1eiwAoJ4qbklVSkbvNKZhsfQ5xV35plAU/view?usp=sharing)])
 - :email: himanshubasotiya10@gmail.com
 
 
