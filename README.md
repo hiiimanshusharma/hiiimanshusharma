@@ -1,7 +1,7 @@
 # Hi I'm Himanshu Sharma 
 
 
-When the world sleeps, I awaken, training models, fine-tuning weights, and dreaming in gradients. My caffeinated elixir is the fuel that propels me through epochs of discovery. Running is the way reach miles. 
+When the world sleeps, I awaken, training models, fine-tuning weights, and dreaming in gradients. My caffeinated elixir is the fuel that propels me through epochs of discovery. Running is the way I reach miles. 
 
 :mailbox: Reach me out!
 
