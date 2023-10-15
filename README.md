@@ -11,6 +11,7 @@ When the world sleeps, I awaken, training models, fine-tuning weights, and dream
 
 ### What I currently Do
 
+- 🔭 I have working as a Software Intern at VarsityPro.
 - 🏫 I’m currently studing at Indian Institute of Information Technology Una(IIITU)
 - 🔭 I have worked as a Quantitative Trading Analyst for Tanmay Agarwal where I builded and back-tested Trading Strategies.
 - :computer: Most used line of code `pip install lib / python run.py`
