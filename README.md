@@ -35,10 +35,6 @@ When the world sleeps, I awaken, training models, fine-tuning weights, and dream
 - :email: himanshubasotiya10@gmail.com
 
 
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=hiiimanshusharma.hiiimanshusharma&left_color=green&right_color=red)
-
 #### Github Stats
 
 ![Himanshu's github stats](https://github-readme-stats.vercel.app/api?username=hiiimanshusharma&count_private=true&theme=tokyonight&hide=contribs,prs)
