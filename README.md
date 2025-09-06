@@ -10,7 +10,7 @@ Trying to code better :)
 
 ### What I currently Do
 
-- 🔭 I am working as Bussiness Technology Associate Intern at ZS Associate.
+- 🔭 I am working as Bussiness Technology Associate at ZS Associate.
 - 🏫 I’m currently studing at Indian Institute of Information Technology Una(IIITU)
 - 🔭 I have worked as a Quantitative Trading Analyst for Tanmay Agarwal where I builded and back-tested Trading Strategies.
 - :computer: Most used line of code `pip install lib / python run.py`
